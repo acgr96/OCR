@@ -5,10 +5,11 @@ This python script leverages Tesseract's OCR capabilities along with image proce
 
 &nbsp;&nbsp;&nbsp;&nbsp;ii) Individual image manipulation processes can be isolated depending on OCR / image requirements for best processing.
 
-The context of this specific script is to extact bathymetry contour data from web imagery (sample image: Gilman_Bathy.jpg) but the intention is to lay it out in such a way that it may be easily modified and adapted to similiar OCR tasks.
+The context of this specific script is to extact bathymetry contour data from web imagery to average and apply as generalized bathymetry in 3D geologic models (sample image: Gilman_Bathy.jpg) but the intention is to lay it out in such a way that it may be easily modified and adapted to similiar OCR tasks.
 
 **To do:**
 - Improve black/white contrast preprocessing on numeric values to yield more accurate character extraction
 - Improve scripting function for seperating unstructured numeric output into appropriate bins/values
+- Test implement GDAL and Selenium for scraping and applying script to web based topographic data based on geographic coordinates
 
 
