@@ -1,7 +1,7 @@
 # OCR
 This python script leverages Tesseract's OCR capabilities along with image processing and manipulation through XXXX and XXXXX to pre-process color imagery for character extraction and transformation. The script is implemented in Jupyter Notebook so that:
 
-&nbsp;&nbsp;&nbsp;&nbsp;i) Users may use the notebook educationally to explore individual image maniupaltion processes in python and also document the different ways in which &nbsp;&nbsp;&nbsp;&nbsp;tesseract can be implemented depeding on the OCR scheme required.
+&nbsp;&nbsp;&nbsp;&nbsp;i) Users may use the notebook educationally to explore individual image maniupaltion processes in python and also document the different &nbsp;&nbsp;&nbsp;&nbsp;ways in which tesseract can be implemented depeding on the OCR scheme required.
 
 &nbsp;&nbsp;&nbsp;&nbsp;ii) Individual image manipulation processes can be isolated depending on OCR / image requirements for best processing.
 
